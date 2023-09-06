@@ -1,0 +1,48 @@
+
+body{
+
+    background-color: rgb(40, 212, 207);
+}
+
+#headerName{
+    color: white;  
+    font-family: Georgia; 
+}
+
+#classesHeader{
+
+    color: white;
+    font-family: Georgia;
+}
+
+#moviesHeader{
+    color: white;
+    font-family: Georgia;
+}
+
+#moodHeader{
+
+    color: white;
+    font-family: Georgia;
+}
+
+#neighborsHeader{
+
+    color: white;
+    font-family: Georgia;
+}
+
+#mood1{
+    color: gold;
+}
+
+#mood2{
+
+    color: green;
+}
+
+.image-container {
+    display: inline-block;
+    vertical-align: top; 
+    margin-right: 20px; 
+}
